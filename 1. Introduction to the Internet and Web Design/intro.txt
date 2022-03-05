@@ -1,5 +1,10 @@
 * Introduction
+<<<<<<< HEAD
 Name: Mmazule Igirigba
+=======
+
+Name: Igirigba Princess
+>>>>>>> 2264da7d5ea7fbcd1eef12b1f2a9f408d2bc6970
 
 Today, millions of people worldwide have access to the Internet, the world’s largest network. Billions of webpages providing information on any subject you can imagine are currently available on the web. People use the Internet to search for information, to communicate with others around the world, and to seek entertainment. Students use the Internet to register for classes, pay tuition, and find out final grades. Businesses and other organizations rely on the Internet and the web to sell products and services. Hypertext Markup Language (HTML) and Cascading Style Sheets (CSS) are two of the technologies that make this possible.
 
